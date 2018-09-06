@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--
+        root-path                    .
+        files-path              Context.getFilesDir()
+        cache-path              Context.getCacheDir()
+        external-path           Environment.getExternalStorageDirectory()
+        external-files-path     Context.getExternalFilesDir(null)
+        external-cache-path     Context.getExternalCacheDir()
+    -->
+    <external-path name="external_storage_version_update" path="VersionUpdate" />
+</paths>

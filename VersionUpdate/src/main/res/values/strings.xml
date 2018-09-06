@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">VersionUpdate</string>
+    <string name="check_network_network_is_not_user">网络不可用,请检查网络状态</string>
+    <string name="already_latest_version">已是最新版本</string>
+    <string name="downloading">下载中...</string>
+    <string name="download_and_install">下载安装</string>
+    <string name="install_right_now">立即安装</string>
+    <string name="cancel">取消</string>
+    <string name="new_version_checked">检测到新版本</string>
+    <string name="new_version_downloaded">已下载新版本</string>
+    <string name="check_version_failed">获取版本失败</string>
+</resources>
